@@ -45,11 +45,11 @@ variable "tags" {
   description = "Tags to apply to resources"
 }
 
-#variable "security_type" {
- # type        = string
-  #description = "Security type for the VM"
-  #default     = "Standard"
-#}
+variable "security_type" {
+  type        = string
+  description = "Security type for the VM"
+  default     = "Standard"
+}
 
 variable "subscription_id" {
   type        = string

@@ -1,5 +1,5 @@
 
-resource_group_name = "raj-rg"
+resource_group_name = "rajveer"
 location            = "central india"
 vnet_name           = "raj-vnet"
 subnet_name         = "raj-subnet"
@@ -7,7 +7,7 @@ vm_name             = "rajveer-vm"
 admin_username      = "rajveer"
 admin_password      = "P@ssw0rd123"
 vm_size             = "Standard_B1s"
-#security_type       = "Standard"
+security_type       = "Standard"
 subscription_id     = "c82980ca-ac33-439d-a896-7efaa573acd1"
 tags = {
   environment    = "dev"
