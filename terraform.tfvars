@@ -8,7 +8,6 @@ admin_username      = "rajveer"
 admin_password      = "P@ssw0rd123"
 vm_size             = "Standard_B1s"
 security_type       = "Standard"
-subscription_id     = "c82980ca-ac33-439d-a896-7efaa573acd1"
 tags = {
   environment    = "dev"
   owner          = "rajveer"
