@@ -42,7 +42,7 @@ variable "vm_size" {
 
 variable "tags" {
   type        = map(string)
-  description = "Tags to apply to resources"
+  description = "Tags to apply to resource"
 }
 
 variable "security_type" {
