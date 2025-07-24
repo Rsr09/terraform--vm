@@ -1,8 +1,8 @@
 
 resource_group_name = "rajveer"
 location            = "central india"
-vnet_name           = "raj-vnet"
-subnet_name         = "raj-subnet"
+vnet_name           = "raj-test-vnet"
+subnet_name         = "default"
 vm_name             = "rajveer-vm"
 admin_username      = "rajveer"
 admin_password      = "P@ssw0rd123"
