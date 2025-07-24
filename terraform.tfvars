@@ -1,6 +1,6 @@
 
 resource_group_name = "rajveer"
-location            = "central india"
+location            = "east us"
 vnet_name           = "raj-test-vnet"
 subnet_name         = "default"
 vm_name             = "rajveer-vm"
