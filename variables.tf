@@ -51,7 +51,3 @@ variable "security_type" {
   default     = "Standard"
 }
 
-variable "subscription_id" {
-  type        = string
-  description = "Azure Subscription ID"
-}
